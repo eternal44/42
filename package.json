@@ -1,5 +1,5 @@
 {
-  "name": "42",
+  "name": "return42",
   "version": "0.0.1",
   "description": "Returns an integer (42)",
   "main": "index.js",
