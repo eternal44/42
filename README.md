@@ -20,3 +20,12 @@ and it'll return the integer 42.
 ```js
 return42();
 ```
+
+Test
+-----
+
+Run the following command in your terminal to run tests.
+
+```bash
+npm test
+```
